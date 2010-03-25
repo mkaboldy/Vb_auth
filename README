@@ -1,0 +1,11 @@
+vb_auth
+
+Authentication library for vBulletin user sessions
+
+Inspired by Pat Andrew's vBuser package
+
+Version: 0.1.0
+Last	Modified:	3/17/2010
+Author: MiklosK (http://codeigniter.com/forums/member/155463/)
+License: GPL
+ 
